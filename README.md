@@ -1,0 +1,1 @@
+# vertex-ai-semantic-search-and-generate
